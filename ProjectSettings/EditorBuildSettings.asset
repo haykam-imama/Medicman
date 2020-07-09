@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4c71de3bdf9e84f4ba4678b25ae68fa1
+  - enabled: 1
+    path: Assets/Scenes/intro1.unity
+    guid: 888eaa6282ecf544d9e00e1459d12b29
+  - enabled: 1
+    path: Assets/Scenes/intro_avianflu.unity
+    guid: 9720ed9732ce3104296004f09964bd23
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: acdec25a256a85a4e8e4c82c69a7710e
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 577281b68595038409ecdc06e840c939
+  m_configObjects: {}
